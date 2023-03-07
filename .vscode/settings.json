@@ -4,5 +4,6 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "string.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/workspaces/comp1107w23week8"
 }
